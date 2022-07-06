@@ -11,7 +11,7 @@ This program is dependent on the following packages:
 This is my first attempt in exploring the realm of text mining. I made this program to help me retrive a summary of a news article. One of the duties at my day job working for the government is to summarize open-source news articles. I thought this tool that I made would be handy in my workflow, so I decided to do a quick project on making an article summarizer. I also think this would be a great addition to my personal project portfolio!
 
 ### App Layout  
-They layout will look like this upon opening the app:
+They layout will look like this upon opening the app:  
 ![image](https://user-images.githubusercontent.com/72810148/177448741-5897b1ad-53fc-48b1-a445-88499bb9ede7.png)
 
 Originally, I had an entry of the author and the date when the article was published. However, due to inconsistency in the NLP picking up the author name and the date, I decided to leave it out.
